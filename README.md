@@ -10,7 +10,7 @@ One can view the working of the Chat Analyzer in the Issue Version or by simply 
 
 ### WhatsApp Chat Data Source
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://github.com/mv1249/WhatsAppChatAnalyzer/issues/1)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://github.com/mv1249/WhatsAppChatAnalyzer/issues/2)
 
 One can watch this issue inorder to extract the text file of the WhatsApp Chat which one has to analyze and then the user is requested to watch the first issue which shows 
 about the functioning of the WhatsApp Chat Analyzer.
