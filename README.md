@@ -8,6 +8,13 @@
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://github.com/mv1249/WhatsAppChatAnalyzer/issues/1)
 One can view the working of the Chat Analyzer in the Issue Version or by simply clicking the "Play" button,and one can access the web app by clicking on the "Chrome Web Icon"
 
+### WhatsApp Chat Data Source
+
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://github.com/mv1249/WhatsAppChatAnalyzer/issues/1)
+
+One can watch this issue inorder to extract the text file of the WhatsApp Chat which one has to analyze and then the user is requested to watch the first issue which shows 
+about the functioning of the WhatsApp Chat Analyzer.
+
 ## WhatsAppChatAnalyzer Version 1.0
 
 [<img align = right height = 50 width = 50 src = "https://edent.github.io/SuperTinyIcons/images/svg/github.svg">](https://github.com/mv1249/WhatsappTextAnalysis)
